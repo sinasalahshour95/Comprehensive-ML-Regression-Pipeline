@@ -1,0 +1,20 @@
+0
+Exter Qual_encoded
+Exter Cond_encoded
+Bsmt Qual_encoded
+Bsmt Cond_encoded
+Bsmt Exposure_encoded
+BsmtFin Type 1_encoded
+BsmtFin Type 2_encoded
+Heating QC_encoded
+Kitchen Qual_encoded
+Functional_encoded
+Fireplace Qu_encoded
+Garage Finish_encoded
+Garage Qual_encoded
+Garage Cond_encoded
+Paved Drive_encoded
+Pool QC_encoded
+Fence_encoded
+Overall Qual
+Overall Cond
